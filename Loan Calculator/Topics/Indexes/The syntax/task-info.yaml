@@ -1,0 +1,25 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: index(list)
+- text: list[index]
+- text: list(index)
+- text: list.element(index)
+- text: list.index()
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/6188#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 10 Feb 2022 17:31:53 UTC
+record: -1
+selected_options:
+- 1

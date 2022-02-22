@@ -1,0 +1,14 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    httpResponse = 'mocked response'
+    httpError = 404
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5890#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Wed, 19 Jan 2022 17:37:37 UTC
+record: -1

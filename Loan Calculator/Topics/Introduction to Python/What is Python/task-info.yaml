@@ -1,0 +1,28 @@
+type: choice
+is_multiple_choice: false
+options:
+- text: Python is a programming language that lets you work more quickly and integrate
+    your systems more effectively.
+- text: Python is an interpreted high-level general-purpose programming language.
+- text: Python is one of the most popular programming languages worldwide, according
+    to the TIOBE index.
+- text: Python is a modern general-purpose programming language initially developed
+    by a Dutch programmer named Guido van Rossum in the late 1980s.
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/14897#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 17 Jan 2022 18:04:55 UTC
+record: -1
+selected_options:
+- 0
+custom_name: What is Python?

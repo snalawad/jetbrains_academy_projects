@@ -1,0 +1,27 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: O
+- text: error_message
+- text: int
+- text: correctAnswer
+- text: class_
+message_correct: Congratulations!
+message_incorrect: Incorrect solution
+files:
+- name: main.py
+  visible: true
+  text: |+
+    #  You can experiment here, it won’t be checked
+
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5887#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Mon, 24 Jan 2022 16:15:19 UTC
+record: -1
+selected_options:
+- 1
+- 4
+custom_name: How to name a variable?
