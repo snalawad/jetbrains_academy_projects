@@ -1,0 +1,199 @@
+﻿Sr_No,Date,Startup_Name,Industry_Vertical,SubVertical,City,Investors_Name,InvestmentnType,Amount_in_USD,Remarks
+1,09-01-2020,BYJUâ€™S,E-Tech,E-learning,Bengaluru,Tiger Global Management,Private Equity Round,"20,00,00,000",
+2,13-01-2020,Shuttl,Transportation,App based shuttle service,Gurgaon,Susquehanna Growth Equity,Series C,"80,48,394",
+3,09-01-2020,Mamaearth,E-commerce,Retailer of baby and toddler products,Bengaluru,Sequoia Capital India,Series B,"1,83,58,860",
+4,02-01-2020,https://www.wealthbucket.in/,FinTech,Online Investment,New Delhi,Vinod Khatumal,Pre-series A,"30,00,000",
+5,02-01-2020,Fashor,Fashion and Apparel,Embroiled Clothes For Women,Mumbai,Sprout Venture Partners,Seed Round,"18,00,000",
+6,13-01-2020,Pando,Logistics,"Open-market, freight management platform",Chennai,Chiratae Ventures,Series A,"90,00,000",
+7,10-01-2020,Zomato,Hospitality,Online Food Delivery Platform,Gurgaon,Ant Financial,Private Equity Round,"15,00,00,000",
+8,12-12-2019,Ecozen,Technology,Agritech,Pune,Sathguru Catalyzer Advisors,Series A,"60,00,000",
+9,06-12-2019,CarDekho,E-Commerce,Automobile,Gurgaon,Ping An Global Voyager Fund,Series D,"7,00,00,000",
+10,03-12-2019,Dhruva Space,Aerospace,Satellite Communication,Bengaluru,"Mumbai Angels, Ravikanth Reddy",Seed,"5,00,00,000",
+11,13-12-2019,Rivigo,Technology,Logistics Services and Solutions,Gurgaon,"SAIF Partners, Spring Canter Investment Ltd.",Series F,"2,00,00,000",
+12,17-12-2019,Healthians,B2B-focused foodtech startup,Food Solutions For Corporate,Bengaluru,"Paytm, NPTK, Sabre Partners and Neoplux",Series C,"1,20,00,000",
+13,16-12-2019,Licious,E-Commerce,Online Meat And Seafood Ordering Startup,Bengaluru,Vertex Growth Fund,Series E,"3,00,00,000",
+14,16-12-2019,InCred,Finance,Non-Banking Financial Company,Mumbai,,Debt Funding,"59,00,000",
+15,14-12-2019,Trell,Video,Experience Discovery Platform,Bengaluru,Ruizheng Investment,Seed Round,"20,00,000",
+16,11-12-2019,Rein Games,Gaming,Real money based gaming startup,Noida,Manipal Education and Medical Group (MEMG),Seed Round,"5,00,00,000",
+17,20-12-2019,Lenskart.com,E-Commerce,Online Eyewear Shopping Portal,Faridabad,SoftBank Vision Fund,Series G,"23,10,00,000",
+18,13-11-2019,Freshworks,Software,Business and customer engagement tools,San Francisco,"Sequoia, CapitalG, Accel",Series H,"15,00,00,000",
+19,14-11-2019,Misters,Health and wellness,Men's Health and Wellness brand,Gurgaon,"Sauce.vc, Rainforest Ventures",Series B,"4,86,000",
+20,13-11-2019,Sunstone Eduversity Pvt. Ltd,Education,Elearning,Gurgaon,"Prime Venture Partners, LetsVenture, PS1 Venture and GlobalLogic co-founder Rajul Garg",Seed,"15,00,000",
+21,17-11-2019,Burger Singh,Food and Beverage,Indian Burger Brand,Gurgaon,RB Investments,Venture,undisclosed,
+22,18-11-2019,Healthians,Health and Wellness,Healthcare services,Gurgaon,"DG Daiwa Ventures, DG Incubation",Series B,"1,20,00,000",
+23,15-11-2019,Ninjacart,B2B Marketing,Agritech,Bengaluru,Trifecta Capital Advisors,Debt Funding,"2,60,00,000",
+24,20-11-2019,Aye Finance,FinTech,Financial Services To MSMEs,Gurgaon,FinTech,Debt Funding,"1,74,11,265",
+25,12-11-2019,SuperGaming,Video Games,Social gaming platform,Pune,Dream Incubator,Seed Funding,"13,00,000",
+26,20-11-2019,Clumio,SaaS,Recovery software,"San Jose,","Altimeter Capital, Sutter Hill Ventures",Series C,"13,50,00,000",
+27,11-11-2019,eBikeGo,Last Mile Transportation,Electric bike rental,Amritsar,Startup Buddy,Seed,"3,00,000",
+28,19-11-2019,Digital Mall Asia,E-Commerce,Virtual e-commerce platform,Delhi,Amour Infrastructure,Seed Funding,"22,00,00,000",
+29,18-11-2019,Medikabazaar,Healthcare,B2B platform for medical supplies,Mumbai,"Ackermans & van Haaren, HealthQuad, Rebright Partners, Toppan Printing",Series B,"1,58,00,000",
+30,15-11-2019,Vogo Automotive,Last Mile Transportation,Scooter sharing app,Kormangala,"Matrix Partners, Stellaris Venture Partners, Kalaari Capital",Series B,"28,30,00,000",
+31,19-11-2019,Furtados School of Music,Education,Music Education,Tulangan,IAN Fund and DSG Consumer Partners,,"20,00,00,000",
+32,25-11-2019,Paytm,FinTech,Mobile Wallet,Noida,Vijay Shekhar Sharma,Funding Round,"1,00,00,00,000",
+33,04-10-2019,Dunzo,Customer Service,Delivery Service,Bengaluru,Lightbox,Series D,"4,50,00,000",
+34,02-10-2019,Udaan,B2B,Business development,Bengaluru,"Altimeter Capital, DST Global",Series D,"58,50,00,000",
+35,21-10-2019,The Man Company,Consumer Goods,Beauty and Grooming,Gurgaon,Ayushmann Khurana,Corporate Round,unknown,
+36,05-09-2019,FPL Technologies,FinTech,Financial Services,Pune,"Matrix Partners India, Sequoia India",Maiden Round,"45,00,000",
+37,04-09-2019,Cashflo,FinTech,Invoice discounting platform and SME lending marketplace,Mumbai,SAIF Partners,Series A,"33,00,000",
+38,04-09-2019,Digital F5,"Advertising, Marketing",Digital marketing firm,Mumbai,TIW Private Equity,Private Equity Round,"60,00,000",
+39,04-09-2019,3rdFlix,SaaS,Education Technology,Hyderabad,Exfinity Venture Partners,pre-series A,"50,00,000",
+40,04-09-2019,75F,IoT,Building automation system,Burnsville,Breakthrough Energy Ventures,Series A,"1,80,00,000",
+41,04-09-2019,Myelin Foundry,Information Technology,Deep-technology,Bengaluru,Endiya Partners,Seed,"10,00,000",
+42,04-09-2019,Atomberg Technology,Consumer Technology,"Consumer Electronics, Home Appliances",Mumbai,A91 Partners,Series A,"1,00,00,000",
+43,04-09-2019,GOQii,Health and Wellness,Wearable Fitness Bands,Menlo Park,Bennett Coleman and Company Ltd (BCCL),Series C,"45,00,00,000",
+44,03-09-2019,Vyapar App,Accounting,Mobile-based Accounting Software,Bengaluru,"India Quotient, Axilor Ventures",Series A,"50,00,000",
+45,01-08-2019,CarDekho,E-Commerce,Automotive,Gurgaon,SC GG India Mobility Holdings LLC,Series C,"2,00,00,000",nan
+46,01-08-2019,Progcap,Finance,Supply Chain Management,New Delhi,Sequoia India,Series A,"50,00,000",nan
+47,01-08-2019,MyPetrolPump,Retail,Fuel Delivery,Bengaluru,,Seed Funding Round,"16,00,000",nan
+48,01-08-2019,Alteria Capital,Finance,VC Funds,Mumbai,"Azim Premji, Binny Bansal",Single Venture,"14,00,00,000",nan
+49,01-08-2019,Pine Labs,Information Technology,Last-mile retail transaction technology,Noida,Pine Labs Pte Ltd,Corporate Round,"3,80,80,000",nan
+50,12-08-2019,Meesho,E-Commerce,Social Commerce,Bengaluru,Naspers,Series D,"12,50,00,000",nan
+51,13-08-2019,Cars24,E-Commerce,Car Retail,Gurugram,MS Dhoni,Series D,"1,10,00,000",nan
+52,13-08-2019,Uniphore,Customer Service Platform,Conversational AI,Palo Alto,March Capital Partners,Series C,"5,10,00,000",nan
+53,23-08-2019,Zendrive,Automotive,Road Safety Analytics,San Francisco,XL Innovate,Series B,"3,70,00,000",nan
+54,23-08-2019,Lo! Foods,Consumer Goods,Low carb food for Diabetics,Bengaluru,"Rashmi Daga (founder, FreshMenu), Raveen Sastry (co-founder, Myntra) and Mitesh Shah (finance chief, BookMyShow)",Seed Round,"5,00,000",nan
+55,23-08-2019,Tala,FinTech,Digital Lending Platform,Santa Monica,RPS Ventures,Series D,"11,00,00,000",nan
+56,22-08-2019,INDwealth,FinTech,Wealth Management,Gurgaon,Tiger Global Management,Venture Round,"1,50,00,000",nan
+57,21-08-2019,HungerBox,Food and Beverage,B2B Foodtech,Bengaluru,One97 Communications Ltd.,Series C,"65,90,000",nan
+58,23-08-2019,AdmitKard,EdTech,University Admissions,Noida,Growth DNA,Seed Round,"10,00,000",nan
+59,19-08-2019,Mishry Reviews,Services,Product Review,Gurgaon,Vir Sanghvi,Series A,Undisclosed,nan
+60,19-08-2019,Grofers,E-Commerce,Grocery Delivery,Gurgaon,Softbank Vision Fund,Series F,"7,00,00,000",nan
+61,27-08-2019,Rapido Bike Taxi,Transportation,Bike Taxi,Bengaluru,Westbridge Capital,Series B,"3,90,00,00,000",nan
+62,02-07-2019,RenewBuy,Finance,Auto Insurance,Gurgaon,"Lok Capital, IIFL Wealth",Series B,"1,90,00,000",nan
+63,02-07-2019,Atlan,Information Technology,Big Data,Singapore,WaterBridge Ventures,Pre-Series A,"25,00,000",nan
+64,01-07-2019,WizCounsel,Compliance,Consulting,New Delhi,Kapil Dev,Angel,"1,45,000",nan
+65,03-07-2019,Ola Cabs,Transport,Cabs,Kormangala,"DIG Investment Ab, Deshe Holdings, Samih Toukan and Hussam Khoury",Series J,"10,00,000",nan
+66,01-07-2019,Uniphore,Artificial Intelligence,Speech Recognition,Taramani,March Capital Partners,Series C,"3,80,80,000",nan
+67,04-07-2019,Daalchini Technologies,Food and Beverage,Digital Vending Machine,New Delhi,Artha Venture,Seed Round,"5,00,000",nan
+68,10-07-2019,"\\""\""BYJU\\\\'S\""\""\""""",EdTech,Education,Bengaluru,Qatar Investment Authority,Private Equity Round,"15,00,00,000",nan
+69,11-07-2019,Moglix,E-Commerce,Industrial Tools and Equipments,Singapore,"Composite Capital Management, Sequoia Capital India, Tiger Global Management",Series D,"6,00,00,000",nan
+70,10-07-2019,Ezyhaul,Tech,Logistics,Singapore,Undisclosed,Series B,"1,60,00,000",nan
+71,10-07-2019,Indus OS,Tech,Smartphone Operating System,Andheri,Ventureast,Series B,"57,50,000",nan
+72,10-07-2019,HealthAssure,Health Care,Primary care medical network,Mumbai,Blume Ventures,Series A,"25,00,000",nan
+73,09-07-2019,House of Msasaba,Luxury Label,Clothes and Apparel,Mumbai,Binny Bansal,Series A,"10,00,000",nan
+74,08-07-2019,Board Infinity,EdTech,Full-stack career platform,Chembur,Multiple Angel Investors,Angel Round,"3,19,605",nan
+75,05-06-2019,NoBroker,E-Commerce,Real Estate,Bengaluru,General Atlantic,Series C,"5,10,00,000",nan
+76,04-06-2019,Bira91,Food and Beverage,Brewery,New Delhi,Anicut Capital,Debt Funding,"1,00,00,000",nan
+77,03-06-2019,FabHotels,E-Commerce,Hospitality,Gurgaon,"Goldman Sachs, Accel Partners and Qualcomm",,"48,89,975.54",nan
+78,03-06-2019,Avail Finance,Finance,FinTech,Bengaluru,Matrix Partners,Series A,"90,00,000",nan
+79,04-06-2019,BharatPe,Finance,FinTech,New Delhi,Insight Partners,Series B,"7,50,00,000",nan
+80,04-06-2019,Recykal,Waste Management Service,Optimization,Hyderabad,"Triton Investment Advisors, Pidilite Industries director Ajay Parekh",pre-Series A,"2,60,00,000",nan
+81,03-06-2019,Agara Labs,Deep-Tech,Artificial Intelligence,Bengaluru,Blume Ventures and RTP Global,pre-Series A,"25,00,000",nan
+82,06-06-2019,Sistema.bio,Agriculture,Hybrid Reactor Biodigestor,Nairobi,"Shell Foundation, DILA CAPITAL, Engie RDE Fund, EcoEnterprise Fund, EDFIMC (ElectriFI), Endeavor Catalyst Fund, CoCapital, Triodos, Alpha Mundi, and Lendahand",,"27,39,034.68",nan
+83,06-06-2019,Chakr Innovation,Energy,Renewable Energy,New Delhi,IAN Fund,Series A,"2,60,00,000",nan
+84,06-06-2019,Pratilipi,Digital Media,E-Books,Bengaluru,Qiming Venture Partners,Series B,"1,51,09,500.00",nan
+85,10-06-2019,Bolo App,Digital Media,Video Platform,Bengaluru,Nexus Venture Partners,Seed Funding,"4,30,200",nan
+86,10-06-2019,OkCredit,FinTech,Financial Services,Haryana,Tiger Global Management,Series A,"1,55,00,000",nan
+87,06-06-2019,Biz2Credit,FinTech,Online Lending Platform,New York,WestBridge Capital,Series B,"5,20,00,000",nan
+88,08-06-2019,Vogo Automotive Pvt. Ltd.,Transportation,Dockless Scooter Rental Company,Karnataka,Alteria Capital,Debt Funding,"35,84,000",nan
+89,04-06-2019,Leegality,Services,Digital Documentation,Mumbai/Bengaluru,Mumbai Angels,Series A,"34,00,000",nan
+90,06-05-2019,Ola Electric,Transport,Cabs,Bengaluru,Tata Sons,Series A,undisclosed,nan
+91,06-05-2019,Saahas Zero Waste,Waste Management Service,Optimization,Bengaluru,C4D Partners,Venture - Series Unknown,"8,68,600",nan
+92,05-05-2019,StyleDotMe,E-commerce,Fashion and Shopping,Delhi,"Indian Angel Network and other angel investors, Innov8 founder Ritesh Malik, Josh Talks founders Supriya Paul and Shobha Banga, and former Hero Corporate president Rohit Chanana",Bridge Round,undisclosed,nan
+93,01-05-2019,BlackBuck,Transport,Logistics,Bengaluru,"Goldman Sachs Investment Partners and Silicon Valley-based Accel, Wellington, Sequoia Capital, B Capital, LightStreet, Sands Capital and International Finance Corporation,",Series D,"15,00,00,000",nan
+94,02-05-2019,Zenoti,Saas,Beauty and Wellness Industry,Hyderabad,Tiger Global Management,Series C,"5,00,00,000",nan
+95,28-05-2019,Ather Energy,Automobile,Electric Vehicle,Bengaluru,Sachin Bansal,Series C,"5,10,00,000",nan
+96,28-05-2019,FreshVnF,Agtech,Fresh Agriculture Produces,Mumbai,Equanimity Ventures,Seed Round,"14,00,00,000",nan
+97,30-05-2019,GlowRoad,E-commerce,Retail,Bengaluru,"Korea Investment Partners, Vertex Ventures",Series B,"1,15,00,000",nan
+98,31-05-2019,Bira91,Food and Beverage,Brewery,New Delhi,Sixth Sense Ventures,Series B,"56,00,000",nan
+99,16-04-2019,Kuvera,Finance,Wealth Management,Bengaluru,Eight Roads,Series A,"4,50,00,000",nan
+100,12-04-2019,Medlife,E-commerce,Online Medicine,Bengaluru,Prasid Uno Family Trust,Private Equity,"1,70,00,000",nan
+101,10-04-2019,Kabadiwala,E-commerce,Waste Management,Bhopal,"Unilever, Beehive Capital Advisor, ABCOM Investments, Parekh Marine Transport,",Private Equity,"4,30,665",nan
+102,13-04-2019,Tripoto,Social Media,Travel,New Delhi,"Orchid India, Hornbill Orchid India Fund, Chiratae Ventures (formerly IDG Ventures), 3one4 Capital, Lasmer NV",Series B,"35,91,375",nan
+103,12-04-2019,Azah,Health and Wellness,Organic wellness,Gurugram,Unnamed angel investors,Seed Funding,"2,00,000",nan
+104,11-04-2019,Setu,Fintech,Banking,Bengaluru,Lightspeed India Partners,Seed Funding,"35,00,000",nan
+105,10-04-2019,Toppr,Edtech,E-learning,Mumbai,Milestone,Debt and Preference capital,"63,20,820",nan
+106,10-04-2019,Craftsvilla,E-commerce,Fashion and Apparel,Mumbai,Supera Pte Ltd,Inhouse Funding,"24,43,495",nan
+107,10-04-2019,Unacademy,Edtech,E-learning,Bengaluru,Kalyan Krishnamurthy,Seed/ Angel Funding,"3,07,000",nan
+108,11-04-2019,CleverTap,SaaS,Mobile analytics and marketing,Mumbai,"Sequoia India, Tiger Global Management, Accel Partners",Series B,"2,60,00,000",nan
+109,19-04-2019,My Healthcare,E-commerce,Software Solutions,Bengaluru and Gurugram,Sixth Sense Ventures,Series A,"30,00,000",nan
+110,19-04-2019,KrazyBee,E-commerce,Lending Platform,Bengaluru,"BAC Acquisitions, Unifi AIF, BRD Securities, Northern R Capital",Debt,"14,342,000+",nan
+111,17-04-2019,Shuttl,Transportation,Bus Aggregation,Gurugram,New Atlantic Ventures,Venture Round,"50,00,000",nan
+112,17-04-2019,Increff,Technology,Supply-chain technology solutions,Bengaluru,"021 Capita, Binny Bansal",Series A,"30,00,000",nan
+113,01-02-2019,FleetX,AI,Logistics,Gurgaon,India Quotient and LetsVenture\\xe2\\x80\\x99s Angel Fund,Pre Series A,Undisclosed,nan
+114,08-02-2019,Zilingo,Ecommerce,Fashion & Apparel,India/Singapore,"Sequoia Capital and Temasek Holdings, EDBI, Burda Principal Investments, and Sofina",Series D,"22,60,00,000",nan
+115,13-02-2019,NanoClean Global,Nanotechnology,Anti-Pollution,New Delhi,"LetsVenture, PitchRight Venture, 91SpringBoard, AL Nour International Holdings and Mark V Investments",Series A,"6,00,000",nan
+116,14-02-2018,OyoRooms,Hospitality,Budget Rooms,Gurgaon,DiDi Chuxing,Equity,"10,00,00,000",nan
+117,03-01-2019,CarDekho,Automobile,Online Marketplace,Jaipur,"Sequoia India, Hillhouse Capital, Alphabet\\xe2\\x80\\x99s growth investment arm Capital G and Axis Bank",Series C,"11,00,00,000",nan
+118,04-01-2019,Vyome Therapeutics Inc.,Health and Wellness,Specialty pharmaceutical,India/US,"Iron Pillar, Perceptive Advisors, Romulus Capital and Kalaari Capital",Series D,"2,20,00,000",nan
+119,04-01-2019,Samunnati Financial Intermediation & Services Pvt. Ltd,Finance,Non-banking financial company,Chennai,"MASSIF, a Dutch government fund",Debt-Funding,"50,00,000",nan
+120,04-12-2018,Manch,Social Media,Hyperlocal Content,Delhi,Stellaris Venture Partners,Seed Funding,"7,00,000",nan
+121,01-12-2018,UrbanClap Technologies Pvt. Ltd,Services Platform,Home services marketplace,New Delhi,Steadview Capital and Vy Capital.,Series D,"5,00,00,000",nan
+122,02-12-2018,Guiddoo,Travel Tech,Platform for travel agents,Mumbai,Individual Investors,Pre-Series A,"8,00,000",nan
+123,02-12-2018,Career Anna,Online Education,"Video-based certification, trainings",Gurugram,Individual Investors,Pre-Series A,"5,72,000",nan
+124,04-12-2018,Nagpur Wholesale,Online Marketplace,eCommerce,Nagpur,Omphalos Ventures India LLP,Seed Funding,"1,43,000",nan
+125,06-12-2018,ShopKirana,B2B,eCommerce,Indore,"Info Edge, AET Fund, Akatsuki and Incubate Fund from Japan and Better Capital AngelList syndicate.",Seed Funding,"20,00,000",nan
+126,06-12-2018,BuildSupply,"SaaS, Ecommerce","Real Estate, ERP",Gurugram,"Venture Highway, GREE Ventures, Space Matrix, Individual Investors",Series A,"35,00,000",nan
+127,01-11-2018,GoDesi,Food and Beverage,Regional Flavours,Bengaluru,Lead Angels Network,Seed/ Angel Funding,"1,38,995",nan
+128,03-11-2018,Veritas Finance Ltd.,NBFC,MSME Finance,Chennai,"Norwest Venture Partners, CDC Group, the UK\\xe2\\x80\\x99s Development Finance Institution and P Surendra Pai",Series D,"2,77,99,000",nan
+129,06-11-2018,Meesho,Ecommerce,Social Commerce,Bengaluru,"Shunwei Capital, DST Partners and RPS Ventures",Series C,"5,00,00,000",nan
+130,08-11-2018,Mobile Premier League,Gaming,Mobile e-Sports,Bengaluru,Undisclosed,Series A,"5,00,000",nan
+131,08-11-2018,A&R Bon Vivants,Food,Meat Retail Chain,Jaipur,"RB Investments, Singapore",Equity,"10,00,000",nan
+132,12-11-2018,Blackbuck,Food Tech,POS For Online Ordering,"New York, Bengaluru",Tiger Global,Series A,"10,00,000",nan
+133,12-11-2018,MilkBAsket,Food,Micro-delivery grocery service,New Delhi,Mayfield Fund,Series B,"13,00,000",nan
+134,13-11-2018,DriveU,Transport,On-Demand Drivers,Bengaluru,Stevens Creek Ventures,Mezzanine,"10,00,000",nan
+135,14-11-2018,CleanseCar,Services,Car Wash,Bengaluru,Venture Catalysts,Seed/ Angel Funding,"5,00,000",nan
+136,19-11-2018,Automation Anywhere,Automation,Robotics,California,SoftBank Vision Fund,Series B,"30,00,00,000",nan
+137,20-11-2018,HealthifyMe,Health and Wellness,Wellness Coach,Bengaluru,"Sistema Asia Fund, VC Samsung NEXT, Chiratae Ventures, Inventus Capital, Blume Ventures and Innoven Capital.",Series B (Extension),"60,00,000",nan
+138,21-11-2018,Genius Corner,Education,Personalized Learning,Noida,Individual investors,Seed Funding,"2,78,000",nan
+139,22-11-2018,Aavishkaar-Intellecap Group,Investment,SME Funding,Mumbai,Teachers Insurance and Annuity Association (TIAA),Equity Based Funding,"3,10,00,000",nan
+140,22-11-2018,Skillbox,Social Network,Art,Gurugram,Individual investors,Seed Funding,Undisclosed,nan
+141,23-11-2018,Signzy,Financial Tech,Digital Onboarding Solution,Mumbai/Bengaluru,"Stellaris Venture Partners and Kalaari Capital, Rajan Anandan from Google, Dilip Khandwelwal from SAP Labs India, and Amrish Rau from PayU India",Series A,"34,00,000",nan
+142,24-11-2018,Engineer.ai,Software,AI Platform,India/US,"Lakestar and Jungle Ventures, Softbank\\xe2\\x80\\x99s DeepCore.",Series A,"2,95,00,000",nan
+143,25-11-2018,InCred Finance,Finance,SME Lending,India,"Paragon Partners, Individual Investors",Private Equity,"4,20,00,000",nan
+144,25-11-2018,Roposo,Social Media,Video Sharing,Delhi,Bertelsmann India Investments,Series B,"17,00,000",nan
+145,01-10-2018,Northmist,Fashion,Mens Wear,Delhi,Prashant Jaiswal,Seed/ Angel Funding,N/A,nan
+146,02-10-2018,Origo Commodities India Pvt. Ltd,Logistics,Supply Chain,Hyderabad,"Cooperative Oikocredit, Caspian and Hivos-Triodos Fund",Seed/ Angel Funding,"1,10,00,000",nan
+147,04-10-2018,Grover Zampa,Food,Wine,Mumbai,Ravi Viswanathan,Private Equity,"82,00,000",nan
+148,05-10-2018,Droom,Automobile,New and Used Cars Platform,Gurgaon,ZigExN,Series E,"30,00,000",nan
+149,11-10-2018,Innov8,Real Estate,Co-Working,New Delhi,Credence Family Office,Pre-Series A,"40,00,000",nan
+150,12-10-2018,Blackbuck,Logistics Tech,Largest Trucking Platform,Bengaluru,Sequoia Capital India,Private Funding,"1,46,80,000",nan
+151,12-10-2018,LetsTransport,Logistics Tech,Book Trucks Online,Bengaluru,Fosun International,Series C,"1,20,00,000",nan
+153,03-09-2018,Udaan,B2B Platform,Logistics and Shipping,Bengaluru,DST Global and Lightspeed Venture Partners\\xe2\\x80\\x99 global fund.,Private Equity,"22,50,00,000",nan
+155,04-09-2018,3HCare,Healthcare,Healthcare Service Provider,Delhi,N/A,Seed / Angel Funding,"10,00,000",nan
+158,05-09-2018,Mad Street Den,Technology,Computer Vision And Artificial Intelligence (Ai) Platform,Chennai,KDDI\\xc2\\xa0,Private Equity,N/A,nan
+160,10-09-2018,MamaEarth,Healthcare,Online Marketplace For Mother and Babycare Products,Gurugram,Stellaris Ventures & Others,Private Equity,"40,00,000",nan
+161,11-09-2018,AutoGrid,Technology,AI-Based Energy Optimisation and Control Provider,Bengaluru,"CLP Holdings Group, Innogy, \\xc3\\x98rstead, and Tenaska",Private Equity,"3,20,00,000",nan
+163,11-09-2018,Upwards,Fin-Tech,Online Micro Lending Marketplace,Mumbai,"Shunwei Capital,Quotient, Mayfield & Others",Private Equity,"50,00,000",nan
+164,12-09-2018,Kissht,Fin-Tech,Online lending Platform,Mumbai,"Vertex Ventures Southeast Asia (SEA) and India and Sistema Asia Fund, Fosun RZ Capital, Ventureast, and Endiya Partners.\\n\\n",Private Equity,"3,00,00,000",nan
+165,01-08-2018,dishq,Food-Tech,Personalisation Technology Firm Focusing On The Food And Beverage Industry,Bengaluru,"Farm To Fork, Arts Alliance, The Syndicate Fund, Sven Hensen, Zeroth and Artesian Venture Partners",Seed/ Angel Funding,"4,00,000",nan
+166,01-08-2018,HealthFin,Finance,Patient Financing Platform,Pune,"Axilor, Sprout Venture Partners and others",Seed/ Angel Funding,N/A,nan
+175,09-08-2018,quizizz,Ed-Tech,e-learning Platform,Bengaluru,"Nexus Venture Partners, Prime Venture Partners and Others",Seed/ Angel Funding,"30,00,000",nan
+176,09-08-2018,Happy EMI,Fin-Tech,Consumer Financing Platform,Bengaluru,AJ Ventures and Jain International Trade Organisation (JITO),Seed/ Angel Funding,"10,00,000",nan
+178,13-08-2018,Observe AI,Technology,AI Based Solutions Platform,Bengaluru,"Nexus Venture Partners, MGV, Liquid 2 Ventures, Hack VC, Emergent Ventures and Y Combinator",Private Equity,"80,00,000",nan
+181,20-08-2018,Finzy,Finance,Online Loan Matchmaking Platform,Bengaluru,N/A,Seed / Angel Funding,"10,00,000",nan
+183,22-08-2018,Pi Ventures,Technology,Applied Artificial Intelligence and IoT focused\\xc2\\xa0Platform,Bengaluru,CDC Group plc\\xc2\\xa0,Private Equity,"60,00,000",nan
+186,26-08-2018,Shubh Loans,Fin-Tech,\\xc2\\xa0Customer Sourcing Platform\\xc2\\xa0,Bengaluru,"Saama Capital, SRI Capital, Beenext, and Pravega Ventures",Private Equity,"42,00,000",nan
+187,27-08-2018,MyUpchar,Healthcare,Local Language Health Content App,Delhi,"Nexus Venture Partners, Omidyar Network and Shunwei Capital",Private Equity,"50,00,000",nan
+188,28-08-2018,Narvar,IT,Post-Purchase Customer Engagement Platform\\xc2\\xa0,Bengaluru,Accel (formerly known as Accel Partners),Private Equity,"30,00,000",nan
+189,30-08-2018,True North,Finance,Private Equity Firm,Mumbai,N/A,Private Equity,"60,00,00,000",nan
+190,01-07-2018,Leena AI,Technology,HR Virtual Agent For Employees,Gurugram,Y Combinator,Seed/ Angel Funding,N/A,nan
+192,04-07-2018,Anchanto,IT,E-commerce Fulfilment Platform,Pune,MDI Ventures & Telkom Indonesia,Private Equity,"40,00,000",nan
+198,10-07-2018,iNICU,Healthcare,Med-tech Platform Providing Care For Newborns,Delhi,Venture Catalysts,Seed/ Angel Funding,N/A,nan
+199,10-07-2018,Kinara Capital,Finance,Lending Platform For Micro and Small Enterprises,Bengaluru,ResponsAbility,Private Equity,"50,00,000",nan
+202,12-07-2018,19th mile,IT,Artificial intelligence-based sales acceleration software platform,Gurugram,"Rishi Vasudev, Excelsior Investments, Ritesh Vohra, Praveer Kumar, Prashant Gupta and Others",Seed/ Angel Funding,"1,80,000",nan
+203,12-07-2018,5th Vital,Healthcare,Home diagnostics services provider,Bengaluru,Brand Capital and Others,Seed/ Angel Funding,"5,00,000",nan
+204,13-07-2018,MEngage,Healthcare,A Doctor-Patient Engagement Platform,Jaipur,"Siddharth Agarwal, Mahavir Sharma, Amit Singal, 100 Co-founders Lab and others.",Seed/ Angel Funding,"1,75,000",nan
+205,17-07-2018,Ofbusiness,Finance,Online Lending Platform For SME,Gurugram,"Creation Investments, Falcon Edge, Matrix Partners India and Zodius Capital",Private Equity,"2,90,00,000",nan
+211,23-07-2018,Yulu Bikes,Technology,Bicycle-Sharing Platform,Bengaluru,N/A,Seed/ Angel Funding,N/A,nan
+212,23-07-2018,VTION,Technology,Media Analytics,Gurugram,"AngelList, Rahul Khanna, Rajeev Arora and Ram Ramsundar.",Seed/ Angel Funding,"2,80,000",nan
+213,23-07-2018,Log9 Materials,Technology,Nanotechnology Company Specializing In Graphene,Bengaluru,"Metaform Ventures, Hemant Luthra, Micro venture capital firm GEMS Partners and Others",Seed/ Angel Funding,"4,36,000",nan
+214,24-07-2018,kidovators,Ed-Tech,Skill Learning Platform,Bengaluru,Gray Matters,Seed/ Angel Funding,"1,80,000",nan
+216,25-07-2018,Black Soil,Finance,Non-Banking Financial Company,Mumbai,"Allcargo Logistics, Navneet Education and Mahavir Agency",Private Equity,"1,70,00,000",nan
+218,25-07-2018,iqlect,Technology,Data Analytics Firm,Bengaluru,Ventureast and Exfinity,Seed/ Angel Funding,"25,00,000",nan
+219,26-07-2018,Entropik,IT,Software-As-A-Service Platform,Bengaluru,"Bharat Innovation, IDFC-Parampara Capital, Arthavida Ventures, Jitendra Gupta & Others",Seed/ Angel Funding,"11,00,000",nan
+220,26-07-2018,Bitla Software,Technology,Travel-Focused Tech Startup,Bengaluru,MakeMyTrip,Private Equity,N/A,nan
+221,26-07-2018,TheCapitalNet,Fin-Tech,Unified Global Investments Ecosystem,Hyderabad,Lindwall Family Investments LLC (LFI),Private Equity,"5,00,000",nan
+224,31-07-2018,Five Star Group,Fin-Tech,Non-Bank Lending Platform For SME,Chennai,"TPG, Norwest Venture Partners, Sequoia Capital & Matrix Partners",Private Equity,"10,00,00,000",nan
+225,31-07-2018,Healthsignz,Healthcare,Health and Well being Platform,Hyderabad,Kantilal Patel,Seed/ Angel Funding,"50,00,000",nan
+226,01-06-2018,CoinTribe,Finance,Credit-Based Lending Marketplace For Small And Medium Enterprises,Gurugram,"Sabre Partners, Puneet Dalmia & Others",Private Equity,"1,00,00,000",nan
+227,04-06-2018,Digiconectt,Technology,Sales Analytics and Enablement Platform,Bengaluru,Aspire Logistics LLC,Seed/ Angel Funding,"1,25,000",nan
+228,04-06-2018,Kashmir Box,E-Commerce,"Online Marketplace For Handicrafts, Handlooms And Local Produce",Srinagar,"Bhairavi Jani, Alok Divatia, Namrata Kaul, Sohail Hashemi, Aijaz Saleem",Seed/ Angel Funding,N/A,nan
+229,05-06-2018,Crowdera,Finance,Online Crowdfunding Platform,Nagpur,"Anil Advani, Pramod Jain, Amrendra Reddy and Manish Satnaliwala.",Seed/ Angel Funding,N/A,nan
+230,05-06-2018,Zoctr,Healthcare,Online Healthcare Aggregator,Mumbai,NB Ventures and Others,Seed/ Angel Funding,N/A,nan
+231,07-06-2018,Annapurna Finance,Finance,Non-Banking Financial Company,Bhubneswar,Oman India Joint Investment Fund (OIJIF),Private Equity,"2,30,00,000",nan
+233,10-06-2018,AyeFinance,Finance,Online Lending Platform,Gurugram,"CapitalG, SAIF Partners and LGT Impact Ventures",Private Equity,"2,15,00,000",nan
+234,11-06-2018,Theranosis,Healthcare,Specialised diagnostics Platform,Hyderabad,Mumbai Angels Network,Seed/ Angel Funding,N/A,nan
+235,12-06-2018,Alpha Capital,Finance,Supplychain Finance,Mumbai,Alpha Capital,Private Equity,"1,48,00,000",nan
+236,12-06-2018,eshakti,E-Commerce,Fashion e-tailer,Chennai,Paragon Partners,Private Equity,"1,01,00,000",nan
